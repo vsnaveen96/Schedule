@@ -1,0 +1,34 @@
+{
+  "project_info": {
+    "project_number": "722552635069",
+    "project_id": "gen-lang-client-0715847883",
+    "storage_bucket": "gen-lang-client-0715847883.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722552635069:android:com.aistudio.schedule.kxmpzq",
+        "android_client_info": {
+          "package_name": "com.aistudio.schedule.kxmpzq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722552635069-p58s74kogeuf7po9vsl4qlh5oekb40q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGEvPyjj35IffDq0XIY8qjoUXdxWVEWqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
